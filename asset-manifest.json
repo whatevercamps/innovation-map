@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/innovation-map/static/css/main.1a0420ad.chunk.css",
+    "main.js": "/innovation-map/static/js/main.8e5ac495.chunk.js",
+    "main.js.map": "/innovation-map/static/js/main.8e5ac495.chunk.js.map",
+    "runtime-main.js": "/innovation-map/static/js/runtime-main.25de98e3.js",
+    "runtime-main.js.map": "/innovation-map/static/js/runtime-main.25de98e3.js.map",
+    "xlsx.js": "/innovation-map/static/js/xlsx.22b8c245.chunk.js",
+    "xlsx.js.map": "/innovation-map/static/js/xlsx.22b8c245.chunk.js.map",
+    "static/js/3.ecae8629.chunk.js": "/innovation-map/static/js/3.ecae8629.chunk.js",
+    "static/js/3.ecae8629.chunk.js.map": "/innovation-map/static/js/3.ecae8629.chunk.js.map",
+    "static/css/4.d9ad5f5c.chunk.css": "/innovation-map/static/css/4.d9ad5f5c.chunk.css",
+    "static/js/4.1c62ec61.chunk.js": "/innovation-map/static/js/4.1c62ec61.chunk.js",
+    "static/js/4.1c62ec61.chunk.js.map": "/innovation-map/static/js/4.1c62ec61.chunk.js.map",
+    "static/js/5.9a0c3e84.chunk.js": "/innovation-map/static/js/5.9a0c3e84.chunk.js",
+    "static/js/5.9a0c3e84.chunk.js.map": "/innovation-map/static/js/5.9a0c3e84.chunk.js.map",
+    "static/js/6.2c5762f2.chunk.js": "/innovation-map/static/js/6.2c5762f2.chunk.js",
+    "static/js/6.2c5762f2.chunk.js.map": "/innovation-map/static/js/6.2c5762f2.chunk.js.map",
+    "index.html": "/innovation-map/index.html",
+    "precache-manifest.ee81e2ac98e25165dd31ff787fab532c.js": "/innovation-map/precache-manifest.ee81e2ac98e25165dd31ff787fab532c.js",
+    "service-worker.js": "/innovation-map/service-worker.js",
+    "static/css/4.d9ad5f5c.chunk.css.map": "/innovation-map/static/css/4.d9ad5f5c.chunk.css.map",
+    "static/css/main.1a0420ad.chunk.css.map": "/innovation-map/static/css/main.1a0420ad.chunk.css.map",
+    "static/js/4.1c62ec61.chunk.js.LICENSE.txt": "/innovation-map/static/js/4.1c62ec61.chunk.js.LICENSE.txt",
+    "static/js/5.9a0c3e84.chunk.js.LICENSE.txt": "/innovation-map/static/js/5.9a0c3e84.chunk.js.LICENSE.txt",
+    "static/js/6.2c5762f2.chunk.js.LICENSE.txt": "/innovation-map/static/js/6.2c5762f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25de98e3.js",
+    "static/css/4.d9ad5f5c.chunk.css",
+    "static/js/4.1c62ec61.chunk.js",
+    "static/css/main.1a0420ad.chunk.css",
+    "static/js/main.8e5ac495.chunk.js"
+  ]
+}
